@@ -2,7 +2,7 @@ export default function Navbar() {
     return (
         <header>
             <nav>
-                <img src="src\components\react-logo.png" alt="React logo" />
+                <img src="public/react-logo.png" alt="React logo" />
                 <span>ReactFacts</span>
             </nav>
         </header>
